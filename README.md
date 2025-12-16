@@ -49,7 +49,7 @@ O dashboard foi construído com base em boas práticas de **visualização de da
 ```
 📁 dashboard-vendas-powerbi
 │
-├── 📊 Dashboard_Vendas.pbix
+├── 📊 Dashboard_Vendas2.pbix
 ├── 🖼️ screenshots
 │   └── dashboard.png
 ├── 📄 README.md
