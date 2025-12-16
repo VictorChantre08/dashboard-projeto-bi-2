@@ -59,7 +59,7 @@ O dashboard foi construído com base em boas práticas de **visualização de da
 
 ## 🖼️ Preview do Dashboard
 
-> *(<img width="1494" height="841" alt="Captura de Tela (556)" src="https://github.com/user-attachments/assets/ed1dc54d-51c8-4fc0-8cdb-614b3feee0f7" />)*
+> *<img width="1494" height="841" alt="Captura de Tela (556)" src="https://github.com/user-attachments/assets/ed1dc54d-51c8-4fc0-8cdb-614b3feee0f7" />*
 
 ---
 
